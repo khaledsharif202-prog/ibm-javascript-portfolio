@@ -3,7 +3,9 @@
 A responsive-ready, single-page portfolio website developed as the final project for the **Introduction to HTML, CSS, & JavaScript** course by IBM on Coursera.
 
 The project demonstrates foundational front-end development skills, including HTML structure, CSS styling, JavaScript event handling, and DOM manipulation.
+## Preview
 
+![Portfolio Website Preview](portfolio-preview.png)
 ## Live Demo
 
 **[View My Portfolio Website](https://khaledsharif202-prog.github.io/ibm-javascript-portfolio/)**
